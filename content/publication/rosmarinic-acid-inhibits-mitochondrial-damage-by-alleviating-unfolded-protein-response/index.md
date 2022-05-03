@@ -4,7 +4,7 @@ title: Rosmarinic acid inhibits mitochondrial damage by alleviating unfolded
 publication_types:
   - "2"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
