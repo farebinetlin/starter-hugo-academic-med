@@ -14,8 +14,9 @@ social:
     link: /#contact
 organizations:
   - name: Fujian Medical University
-    url: https://www.fjmu.edu/
+    url: https://www.fjmu.edu.cn/
   - name: Fujian Medical University Union Hospital
+    url: http://www.fjxiehe.com/
 education:
   courses:
     - course: BSc in clinical medicine
