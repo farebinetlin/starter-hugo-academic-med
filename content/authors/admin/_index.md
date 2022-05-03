@@ -27,4 +27,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Fabin Lin is a M.D student of neurosurgery at Fujian Medical Union Hospital. His research interests include clinical prediction models, MRI data analysis and machine learning. He published one paper as first author in the SCI journal “JOURNAL OF NEUROLOGY NEUROSURGERY AND PSYCHIATRY” (IF=10.154). He has published 9 papers in SCI journals as first author, co-first author and corresponding author with a cumulative impact factor of 46 points. He serves as a reviewer for IEEE journals
+Fabin Lin is a M.D student of neurosurgery at Fujian Medical Union Hospital. His research interests include clinical prediction models, MRI data analysis and machine learning. He published one paper as first author in the SCI journal “JOURNAL OF NEUROLOGY NEUROSURGERY AND PSYCHIATRY” (IF=10.154). He has published 9 papers in SCI journals as first author, co-first author and corresponding author with a cumulative impact factor of 46 points. He serves as a reviewer for IEEE journals. He won the presidential scholarship in Fujian medical university.
