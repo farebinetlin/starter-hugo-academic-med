@@ -1,7 +1,7 @@
 ---
 title: Fabin Lin林法彬
 role: Neurosurgeon;  M.D student
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: My research interests include clinical prediction models, MRI data analysis
   and machine learning.
 interests:
